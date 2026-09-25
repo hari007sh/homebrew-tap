@@ -1,6 +1,6 @@
 cask "aerie" do
-  version "1.0.7"
-  sha256 "8d3e361097065126b8d63ad698d24ece8835f22b0455c9924932f954f39b4b4f"
+  version "1.0.8"
+  sha256 "44e740801c8546c7f75afb3d097d252a1acb757a571858f7195068fe4b82836b"
 
   url "https://aerie.work/releases/Aerie-#{version}.dmg"
   name "Aerie"
