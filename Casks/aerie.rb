@@ -9,7 +9,7 @@ cask "aerie" do
 
   livecheck do
     url "https://aerie.work/appcast.xml"
-    strategy :sparkle
+    strategy :sparkle, &:short_version
   end
 
   auto_updates true
